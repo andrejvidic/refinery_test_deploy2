@@ -24,6 +24,15 @@ GIT
       refinerycms-core (~> 3.0.0)
 
 GIT
+  remote: git://github.com/refinery/refinerycms-i18n.git
+  revision: ff93ad912c86eb2f1a07a77ac1c75133474f7fea
+  branch: master
+  specs:
+    refinerycms-i18n (3.0.1)
+      rails-i18n (~> 4.0.1)
+      routing-filter (>= 0.4.0)
+
+GIT
   remote: git://github.com/refinery/refinerycms-search.git
   revision: 50a996e9e014a4a7760a2d0ddf88d27c5103dea3
   branch: master
@@ -253,9 +262,6 @@ GEM
       truncate_html (~> 0.9)
       will_paginate (~> 3.0.2)
       zilch-authorisation
-    refinerycms-i18n (3.0.1)
-      rails-i18n (~> 4.0.1)
-      routing-filter (>= 0.4.0)
     refinerycms-images (3.0.4)
       dragonfly (~> 1.0.0)
       globalize (>= 4.0.0, < 5.2)
@@ -362,6 +368,7 @@ DEPENDENCIES
   refinerycms-blog!
   refinerycms-calendar!
   refinerycms-copywriting!
+  refinerycms-i18n!
   refinerycms-images (~> 3.0, >= 3.0.0)
   refinerycms-inquiries (~> 3.0.0)
   refinerycms-search!

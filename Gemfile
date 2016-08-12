@@ -21,6 +21,7 @@ gem 'refinerycms', '~> 3.0', '>= 3.0.4'
 # gem 'refinerycms', github: 'refinery/refinerycms', branch: 'master'
 
 # Optionally, specify additional Refinery CMS Extensions here:
+gem 'refinerycms-i18n', github: 'refinery/refinerycms-i18n', branch: 'master'
 gem 'refinerycms-authentication-devise', '~> 1.0.4' # The default authentication adapter
 gem 'refinerycms-inquiries', '~> 3.0.0'
 gem 'refinerycms-search', github: 'refinery/refinerycms-search', branch: 'master'

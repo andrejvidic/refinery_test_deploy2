@@ -356,7 +356,7 @@ DEPENDENCIES
   pg
   quiet_assets
   rails (= 4.2.5)
-  refinerycms (~> 3.0, >= 3.0.2)
+  refinerycms (~> 3.0, >= 3.0.4)
   refinerycms-acts-as-indexed (~> 3.0, >= 3.0.0)
   refinerycms-authentication-devise (~> 1.0.4)
   refinerycms-blog!

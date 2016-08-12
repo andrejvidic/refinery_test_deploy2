@@ -17,7 +17,7 @@ gem 'turbolinks' # Turbolinks makes following links in your web application fast
 gem 'jbuilder', '~> 2.0' # Build JSON APIs with ease
 
 ### REFINERY CMS
-gem 'refinerycms', '~> 3.0', '>= 3.0.2'
+gem 'refinerycms', '~> 3.0', '>= 3.0.4'
 # gem 'refinerycms', github: 'refinery/refinerycms', branch: 'master'
 
 # Optionally, specify additional Refinery CMS Extensions here:

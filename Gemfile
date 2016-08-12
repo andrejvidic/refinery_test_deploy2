@@ -32,6 +32,7 @@ gem 'refinerycms-images', '~> 3.0', '>= 3.0.0'
 gem 'refinerycms-copywriting', github: 'unixcharles/refinerycms-copywriting', branch: 'master'
 gem 'refinerycms-calendar', github: 'refinery/refinerycms-calendar', branch: 'master'
 
+gem 'seo_meta', github: 'parndt/seo_meta', branch: 'master'
 gem 'google-webfonts'
 gem 'owlcarousel-rails'
 

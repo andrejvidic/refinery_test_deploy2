@@ -1,4 +1,12 @@
 GIT
+  remote: git://github.com/parndt/seo_meta.git
+  revision: b03f2b8c7874e2ff05423998e881f6bbc2dddd83
+  branch: master
+  specs:
+    seo_meta (2.0.0.rc.1)
+      railties (>= 3.0.0)
+
+GIT
   remote: git://github.com/refinery/refinerycms-blog.git
   revision: fcce6f6176d0e11f0ad65d7d1f477c02d6b1a4a4
   branch: master
@@ -305,8 +313,6 @@ GEM
     sdoc (0.4.1)
       json (~> 1.7, >= 1.7.7)
       rdoc (~> 4.0)
-    seo_meta (2.0.0.rc.1)
-      railties (>= 3.0.0)
     speakingurl-rails (8.0.2)
       railties (>= 3.1)
     spring (1.7.2)
@@ -375,6 +381,7 @@ DEPENDENCIES
   refinerycms-wymeditor (~> 1.0, >= 1.0.6)
   sass-rails (>= 3.2)
   sdoc (~> 0.4.0)
+  seo_meta!
   spring
   sprockets-rails (~> 3.1.1)
   sqlite3
